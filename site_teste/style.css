@@ -1,13 +1,23 @@
-.upper_block{
-    margin-top: 0;
+.upper_block {
+
+    display: flex;
+    background-color: rgb(14, 148, 14);
+    border-color:white;
+    padding-top: 0;
+    height: 70%;
 }
 
-.upper_block {
-    background-color: grey;
-    border-color:white;
-    height: 8.625rem;
-    padding-top: 0;
-    position: relative;
-    width: 100%;
-   
+.col_70{
+    width: 70%;
+    height: 70%;
+}
+
+.div_header_block{
+    align-items: center
+}
+
+
+img{
+    width: 30%;
+    padding: 0;
 }
