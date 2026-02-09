@@ -1,0 +1,13 @@
+.upper_block{
+    margin-top: 0;
+}
+
+.upper_block {
+    background-color: grey;
+    border-color:white;
+    height: 8.625rem;
+    padding-top: 0;
+    position: relative;
+    width: 100%;
+   
+}
