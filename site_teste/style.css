@@ -1,4 +1,4 @@
-/* Reset básico */
+
 * {
     margin: 0;
     padding: 0;
@@ -31,8 +31,9 @@ body {
 }
 
 .logo img {
-    width: 120px;
-    height: auto;
+    padding-right: 10px;
+    width: 150px;
+    height: 100px;
 }
 
 
@@ -50,18 +51,9 @@ body {
     transition: 0.3s;
 }
 
-.menu a:hover {
-    color: white;
-}
-
-.divider {
-    font-weight: bold;
-}
-
-
 .main-container {
     display: flex;
-    gap: 30px;
+    gap: 10px;
     margin-top: 40px;
 }
 
@@ -71,3 +63,4 @@ body {
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
+
